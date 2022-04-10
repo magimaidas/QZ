@@ -49,7 +49,6 @@ input[type=text],input[type=password],input[type=email]{
 	<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 	<!-- animation -->
 	<link href="css/aos.css" rel="stylesheet" type="text/css" media="all" /><!-- //animation effects-css-->
-	<!-- //animation -->
 	<!--// css -->
 	<!-- font-awesome icons -->
 	<link href="css/font-awesome.css" rel="stylesheet"> 
